@@ -11,7 +11,7 @@ sanity start
 === react ===
 mkdir frontend_react
 
-npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
+npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons react-tooltip
 
 
 ==== connect react-sanity =======
@@ -27,3 +27,6 @@ REACT_APP_SANITY_PROJECT_ID =
 REACT_APP_SANITY_TOKEN = 
 
 reload, configure data in sanity
+
+
+sanity experiences section for setup work exp
