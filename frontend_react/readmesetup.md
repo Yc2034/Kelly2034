@@ -37,6 +37,3 @@ in react folder:
 npm run build
 
 netlify
-
-
-https://kelly2034.netlify.app/
