@@ -32,6 +32,11 @@ reload, configure data in sanity
 sanity experiences section for setup work exp
 
 ===== deploy ====
-npm install gh-pages --save-dev
+in react folder: 
 
-https://blog.logrocket.com/deploying-react-apps-github-pages/
+npm run build
+
+netlify
+
+
+https://kelly2034.netlify.app/
