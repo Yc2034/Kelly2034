@@ -30,3 +30,8 @@ reload, configure data in sanity
 
 
 sanity experiences section for setup work exp
+
+===== deploy ====
+npm install gh-pages --save-dev
+
+https://blog.logrocket.com/deploying-react-apps-github-pages/
