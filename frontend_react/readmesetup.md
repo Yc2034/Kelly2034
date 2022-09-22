@@ -12,3 +12,18 @@ sanity start
 mkdir frontend_react
 
 npm install @sanity/client @sanity/image-url framer-motion node-sass react-icons
+
+
+==== connect react-sanity =======
+cd backend_sanity
+
+sanity manage
+
+add localhost:3000 with CORS
+create api token
+
+create .env file
+REACT_APP_SANITY_PROJECT_ID = 
+REACT_APP_SANITY_TOKEN = 
+
+reload, configure data in sanity
