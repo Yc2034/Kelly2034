@@ -28,13 +28,13 @@ const Header = () => (
           <span>👋</span>
           <div style={{ marginLeft: 20 }}>
             <p className="p-text">Hello, I am</p>
-            <h1 className="head-text">Peiyao</h1>
+            <h1 className="head-text">Molly</h1>
           </div>
         </div>
 
         <div className="tag-cmp app__flex">
-          <p className="p-text">Software Engineer</p>
-          <p className="p-text">Data Lover</p>
+          <p className="p-text">UI/UX Designer</p>
+          <p className="p-text">Illustrator</p>
         </div>
       </div>
     </motion.div>
