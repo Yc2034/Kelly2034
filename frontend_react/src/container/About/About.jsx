@@ -18,7 +18,7 @@ const About = () => {
 
   return (
     <>
-      <h2 className="head-text">I Know that <span>Good Code</span> <br />means  <span>Good Business</span></h2>
+      <h2 className="head-text">People ignore <span>design</span> <br />that ignores  <span>people</span></h2>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (
