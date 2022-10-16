@@ -30,7 +30,6 @@ import id from '../assets/id.png';
 import pr from '../assets/pr.png';
 import an from '../assets/an.png';
 import ae from '../assets/ae.png';
-import acrobat from '../assets/acrobat.png';
 
 export default {
   email,
@@ -64,6 +63,6 @@ export default {
   pr,
   an,
   ae,
-  acrobat,
+
 
 };
