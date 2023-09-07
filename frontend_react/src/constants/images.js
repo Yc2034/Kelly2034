@@ -19,7 +19,7 @@ import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
 
-import profile from '../assets/profile.png';
+import profile from '../assets/profile.PNG';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
