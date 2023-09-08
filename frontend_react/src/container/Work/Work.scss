@@ -76,6 +76,17 @@
       }
     }
   }
+  .zoom-on-hover {
+    width: 100%;
+    height: 100%;
+    transition: transform 0.3s ease; /* Adjust the transition duration as needed */
+  
+    /* Optionally, you can add other styles like border, shadow, etc. */
+  }
+  
+  .zoom-on-hover:hover {
+    transform: scale(1.1); /* Adjust the scale factor for zoom level */
+  }
   
   .app__work-img {
     width: 100%;
