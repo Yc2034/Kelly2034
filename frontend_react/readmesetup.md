@@ -36,4 +36,4 @@ in react folder:
 
 npm run build
 
-netlify
+uploadc build folder to netlify
